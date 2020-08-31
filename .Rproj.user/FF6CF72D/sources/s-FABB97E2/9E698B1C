@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598887192683.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9E698B1C",
+    "lastKnownWriteTime" : 1598887262,
+    "last_content_update" : 1598887262185,
+    "path" : "C:/Users/home/DA(inflearn)/individual_pitcher/R/VariableImportance/변수선택법(r-squared, adj r-squared, cp).R",
+    "project_path" : "변수선택법(r-squared, adj r-squared, cp).R",
+    "properties" : {
+        "cursorPosition" : "14,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598887143734.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3FB24D21",
+    "lastKnownWriteTime" : 1598886956,
+    "last_content_update" : 1598886956,
+    "path" : "C:/Users/home/DA(inflearn)/individual_pitcher/R/RandomForest/RandomForest.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
